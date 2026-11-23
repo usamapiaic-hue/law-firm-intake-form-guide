@@ -1,0 +1,10 @@
+site_name: Law Firm Intake Form Field Guide
+site_description: Field-by-field guide to law firm website intake and contact forms, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-intake-form-guide.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Intake form guide: index.md
+markdown_extensions:
+  - tables
